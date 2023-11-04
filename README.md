@@ -27,10 +27,12 @@ Currently, I'm a
 
 Previously, I was a
 * Visiting Student at [Yale University](https://www.yale.edu/)
+<!--
 * Causal Inference Teaching Assistant at [Waseda University](https://www.waseda.jp/fpse/pse/en/)
 * Data Science Intern at [XCat](https://www.xcat.co.jp/ja/english.html)
 * Data Analyst Intern at [ADK marketing solutions](https://www.adk.jp/en/about/outline/)
 * Software Engineer Intern at [MyNavi](https://www.mynavi.jp/eng/)
+-->
 
 
 <!-- [![gh-stats](https://github-readme-stats.vercel.app/api?username=jaketae&show_icons=true&hide=commits&count_private=true&theme=transparent)](https://github.com/jaketae) -->
