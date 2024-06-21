@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 I'm passionate about Causal Inference, Machine Learning, and Natural Language Processing.
 
 Currently, I'm a 
-* Valedictorian at [Waseda University](https://www.waseda.jp/fpse/pse/en/), majoring in Economics
-* Machine Learning Researcher at [Hanjuku Kaso](https://star-ale.com/en/news/2021/11/30/2026108.html)
-* Machine Learning Researcher at [CyberAgent AI Lab](https://cyberagent.ai/ailab/)
+* Machine Learning Research Intern at [Hanjuku Kaso](https://star-ale.com/en/news/2021/11/30/2026108.html)
+* Machine Learning Research Intern at [CyberAgent AI Lab](https://cyberagent.ai/ailab/)
 
 Previously, I was a
+* Valedictorian, majoring in Economics, at [Waseda University](https://www.waseda.jp/fpse/pse/en/)
 * Visiting Student at [Yale University](https://www.yale.edu/)
 <!--
 * Causal Inference Teaching Assistant at [Waseda University](https://www.waseda.jp/fpse/pse/en/)
