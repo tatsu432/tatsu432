@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 [![linkedin](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaketae/)](https://www.linkedin.com/in/tatsuhiro-shimizu-51a727220/)
 [![blog](https://img.shields.io/badge/blog-black?logo=jekyll&logoColor=white&link=https://jaketae.github.io)](https://tatsu432.github.io/)
 
-I'm passionate about Causal Inference, Machine Learning, and Natural Language Processing.
+I'm passionate about Causal Inference and Machine Learning.
+
+From Fall 2024, I will be a
+* [Master's student in Statistics and Data Science](https://statistics.yale.edu/academics/terminal-ma-program) at [Yale University](https://www.yale.edu/)
 
 Currently, I'm a 
 * Machine Learning Research Intern at [Hanjuku Kaso](https://star-ale.com/en/news/2021/11/30/2026108.html)
