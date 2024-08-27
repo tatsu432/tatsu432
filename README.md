@@ -20,14 +20,12 @@ Here are some ideas to get you started:
 
 I'm passionate about Causal Inference and Machine Learning.
 
-From Fall 2024, I will be a
+Currently, I'm a 
 * [Master's student in Statistics and Data Science](https://statistics.yale.edu/academics/terminal-ma-program) at [Yale University](https://www.yale.edu/)
 
-Currently, I'm a 
+Previously, I was a
 * Machine Learning Research Intern at [Hanjuku Kaso](https://star-ale.com/en/news/2021/11/30/2026108.html)
 * Machine Learning Research Intern at [CyberAgent AI Lab](https://cyberagent.ai/ailab/)
-
-Previously, I was a
 * Valedictorian, majoring in Economics, at [Waseda University](https://www.waseda.jp/fpse/pse/en/)
 * Visiting Student at [Yale University](https://www.yale.edu/)
 <!--
