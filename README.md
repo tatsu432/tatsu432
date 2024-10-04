@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 [![google-scholar](https://img.shields.io/badge/google%20scholar-black?&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=6qnAUTMAAAAJ&hl=en)](https://scholar.google.co.jp/citations?user=PSPLriMAAAAJ&hl=en)
-[![linkedin](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaketae/)](https://www.linkedin.com/in/tatsuhiro-shimizu-51a727220/)
+[![linkedin](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaketae/)](https://www.linkedin.com/)
 [![blog](https://img.shields.io/badge/blog-black?logo=jekyll&logoColor=white&link=https://jaketae.github.io)](https://tatsu432.github.io/)
 
 I'm passionate about Causal Inference and Machine Learning.
