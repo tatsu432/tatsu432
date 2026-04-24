@@ -10,7 +10,8 @@ I'm interested in
 * World Models
 
 Currently, I'm a 
-* Master's student in Statistics and Data Science at Yale University
+* Applied Scientist working on multimodal foundation models @ Woven by Toyota
+* Master's student in Statistics and Data Science @ Yale University
 
 Previously, I was a
 * AI/LLM Engineer @ AnyMind
