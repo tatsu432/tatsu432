@@ -6,7 +6,7 @@
 
 I'm interested in 
 * Multimodal Foundation Models
-* Offline RL
+* RL
 * World Models
 
 Currently, I'm a 
@@ -15,7 +15,6 @@ Currently, I'm a
 
 Previously, I was a
 * AI/LLM Engineer @ AnyMind
-* MLE @ Merck (MSD)
 * DS @ Travelers Insurance
 * ML Research Scientist @ Hanjuku Kaso
 * ML Research Scientist @ CyberAgent AI Lab
