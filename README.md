@@ -5,16 +5,16 @@
 [![homepage](https://img.shields.io/badge/blog-black?logo=jekyll&logoColor=white&link=https:/tatsu432.github.io)](https://tatsu432.github.io/)
 
 I'm interested in 
-* Multimodal Foundation Models
-* RL
-* World Models
+* Post-training of Multimodal Foundation Models
+* Reinforcement Learning
+* World Action Models
 
 Currently, I'm a 
-* Applied Scientist working on multimodal foundation models @ Woven by Toyota
 * Master's student in Statistics and Data Science @ Yale University
 
 Previously, I was a
-* AI/LLM Engineer @ AnyMind
-* DS @ Travelers Insurance
-* ML Research Scientist @ Hanjuku Kaso
-* ML Research Scientist @ CyberAgent AI Lab
+* Applied Scientist (post-training of multimodal foundation models) @ Woven by Toyota
+* AI/LLM Engineer (multi-agent systems) @ AnyMind
+* DS (ViT fine-tuning) @ Travelers Insurance
+* ML Research Scientist (Offline RL) @ Hanjuku Kaso
+* ML Research Scientist (Offline RL) @ CyberAgent AI Lab
