@@ -5,9 +5,9 @@
 [![homepage](https://img.shields.io/badge/blog-black?logo=jekyll&logoColor=white&link=https:/tatsu432.github.io)](https://tatsu432.github.io/)
 
 I'm interested in 
-* Post-training of Multimodal Foundation Models
-* Reinforcement Learning
-* World Action Models
+* Post-training Multimodal Foundation Models
+* Co-evolution of RL agent and environment for RSI
+* PAgent Safety and Alignment
 
 Currently, I'm a 
 * Master's student in Statistics and Data Science @ Yale University
